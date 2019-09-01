@@ -1,0 +1,14 @@
+c:\users\user\source\repos\BAU Helper\BAU Helper\bin\Debug\BAU Helper.exe.config
+c:\users\user\source\repos\BAU Helper\BAU Helper\bin\Debug\BAU Helper.exe
+c:\users\user\source\repos\BAU Helper\BAU Helper\bin\Debug\BAU Helper.pdb
+c:\users\user\source\repos\BAU Helper\BAU Helper\bin\Debug\BAU Helper.xml
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU Helper.vbprojResolveAssemblyReference.cache
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU_Helper.Form1.resources
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU_Helper.Resources.resources
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU Helper.vbproj.GenerateResource.Cache
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU Helper.vbproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU Helper.exe
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU Helper.xml
+c:\users\user\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU Helper.pdb
+C:\Users\USER\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU_Helper.Form2.resources
+C:\Users\USER\source\repos\BAU Helper\BAU Helper\obj\Debug\BAU_Helper.Form3.resources
